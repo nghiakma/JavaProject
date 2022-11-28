@@ -8,8 +8,7 @@
  * @author Acer
  */
 public class noithuctap {
-
-    public noithuctap() {
-    }
+    
+    
     
 }
